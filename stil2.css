@@ -1,0 +1,50 @@
+.header {
+    text-align:center;
+    font-size: 35px;
+    background-color: black;
+    width:auto;
+    position: sticky;
+    top: 0;
+    border-radius: 7px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    color: white;
+    font-weight: bold;
+    font-family: cursive;
+}
+body {
+    background-color: lightblue;
+}
+.box {
+    height: 500px;
+    width: 400px;
+    background-color: darkgrey;
+    border-radius: 10px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: 50%;
+    transform: translate(-50%, -50%);
+    border: 2px solid black;
+}
+#edno {
+    font-size: 30px;
+    text-align: center;
+    font-weight: bolder;
+}
+hr {
+    border-color: black;
+}
+.register {
+    font-size: 20px;
+}
+.register a:visited {
+    color: purple;
+}
+p:visited {
+    color: purple;
+}
+.button_homepage{
+    cursor: pointer;
+}
